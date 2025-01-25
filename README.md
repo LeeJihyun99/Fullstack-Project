@@ -5,6 +5,7 @@
 npm init -y
 npm install express
 npm install --save-dev nodemon
+npm install ejs
 ```
 --save-dev nodemon will restart the node server whenever there is an update in my code.
 
